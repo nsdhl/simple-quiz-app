@@ -1,4 +1,4 @@
-const QuizData  = [
+export const QuizData  = [
     {
         question: 'What is the capital of France?',
         answers: [ "New York", "London", "Paris", "Dublin"],
