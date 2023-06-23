@@ -9,6 +9,7 @@ function QuizResult(props) {
     </div>
 <button id='next-button' onClick={props.tryAgain}>Play Again</button>
     </>
+    
   )
 }
 
